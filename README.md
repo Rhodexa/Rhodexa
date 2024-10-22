@@ -20,4 +20,4 @@
 - 📫 How to reach me ...
   Via github.
   Mail: rhodexartist@gmail.com
-  Instagram: @rhodexa_art
+  Instagram: @rhodexa_lab
